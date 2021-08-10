@@ -1,0 +1,21 @@
+.product-form {
+    display: flex;
+}
+
+.productContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 4rem;
+}
+
+h1 {
+    margin-bottom: -8px;
+}
+
+.bottomContent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 15rem;
+}

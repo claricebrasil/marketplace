@@ -1,0 +1,15 @@
+.products-list {
+    display: flex;
+}
+
+.list-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 4rem;
+}
+
+.card-list {
+    display: flex;
+    justify-content: space-between;
+}
